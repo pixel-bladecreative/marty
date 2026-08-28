@@ -1,0 +1,18 @@
+model: google/nano-banana-edit
+refs: 01b-identity-sheet-v2.png
+aspect_ratio: 16:9
+
+A film visual-effects material study of the yeti character from the reference
+sheet: three close-up panels side by side on a neutral background, rendered at
+photoreal feature-film VFX quality.
+Panel 1: extreme close-up of his shoulder and chest fur in soft natural
+daylight, dense groomed snow-white fur with individual strands, soft clumping,
+flyaway hairs at the silhouette, subtle subsurface glow, the fur picking up a
+faint cool tint from the sky.
+Panel 2: extreme close-up of one teal horn, soft segment ridges, matte keratin
+surface with fine micro-texture and gentle specular highlights, white fur
+meeting its base.
+Panel 3: close-up of one teal four-fingered hand, palm open toward camera,
+smooth soft skin texture on the palm, short white fur transitioning at the
+wrist.
+No text, no labels.

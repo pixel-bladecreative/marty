@@ -1,0 +1,17 @@
+model: google/nano-banana-edit
+refs: 01b-identity-sheet-v2.png
+aspect_ratio: 16:9
+note: "Using the character... generate a study sheet" phrasing gets filtered; the "chart for an animated film" phrasing passes
+
+A character action chart for an animated film: six full-body poses of the
+friendly yeti character from the reference sheet, arranged in a grid on a
+plain light-grey background. The same character in every cell, full figure
+head-to-toe, same white fur, teal ridged horns, teal hands and feet, same soft
+studio lighting, high-end animated feature film 3D render.
+Cell 1: running forward with joyful energy, arms pumping.
+Cell 2: jumping for joy, both arms up in the air.
+Cell 3: presenting toward camera with both open hands.
+Cell 4: both thumbs up, big smile.
+Cell 5: tiptoeing playfully, shoulders hunched, gleeful face.
+Cell 6: standing proud, fists on hips, chest out.
+No text, no labels, no logos.

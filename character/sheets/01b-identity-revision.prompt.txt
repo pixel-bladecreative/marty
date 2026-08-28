@@ -1,0 +1,12 @@
+model: google/nano-banana-edit
+refs: character/sheets/01-identity-sheet.png
+aspect_ratio: 16:9
+
+Edit this character reference sheet, changing only three details and keeping
+everything else exactly the same, same layout, same lighting, same character:
+1. Remove the round white tail puff from the back view. He has no tail; the
+   back is smooth fur.
+2. Add thin, dark, expressive eyebrows above both eyes, in the facial close-up
+   and in the full-body front view, slightly raised as if delighted.
+3. Make both arms slightly longer, so the fingertips hang just past knee
+   height in the front and back full-body views.

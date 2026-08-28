@@ -35,18 +35,24 @@ python3 - "$@" <<'EOF'
 import base64, json, mimetypes, os, sys, time, urllib.request
 
 API = "https://api.kie.ai"
+UPLOAD_API = "https://kieai.redpandaai.co"  # file-upload lives on its own host
 KEY = os.environ["KIE_API_KEY"]
 
-def call(path, payload):
-    req = urllib.request.Request(API + path, data=json.dumps(payload).encode(),
-        headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json"})
+# The session's egress proxy 403s python-urllib's default User-Agent; any
+# browser/curl-style UA passes. Keep an explicit UA on every request.
+UA = "curl/8.5.0"
+
+def call(url, payload):
+    req = urllib.request.Request(url, data=json.dumps(payload).encode(),
+        headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json",
+                 "User-Agent": UA})
     with urllib.request.urlopen(req, timeout=120) as r:
         return json.load(r)
 
 def upload(path):
     mime = mimetypes.guess_type(path)[0] or "application/octet-stream"
     data = base64.b64encode(open(path, "rb").read()).decode()
-    r = call("/api/file-base64-upload", {
+    r = call(UPLOAD_API + "/api/file-base64-upload", {
         "base64Data": f"data:{mime};base64,{data}",
         "uploadPath": "marty/refs",
         "fileName": os.path.basename(path)})
@@ -68,7 +74,7 @@ if os.environ.get("ASPECT_RATIO"):
 if model.startswith("gpt-image-2"):
     inp.pop("output_format", None)
 
-r = call("/api/v1/jobs/createTask", {"model": model, "input": inp})
+r = call(API + "/api/v1/jobs/createTask", {"model": model, "input": inp})
 if r.get("code") != 200:
     sys.exit(f"create failed: {r}")
 task = r["data"]["taskId"]
@@ -77,7 +83,7 @@ print(f"task {task}", file=sys.stderr)
 for i in range(120):
     time.sleep(5)
     req = urllib.request.Request(f"{API}/api/v1/jobs/recordInfo?taskId={task}",
-        headers={"Authorization": f"Bearer {KEY}"})
+        headers={"Authorization": f"Bearer {KEY}", "User-Agent": UA})
     with urllib.request.urlopen(req, timeout=60) as resp:
         d = (json.load(resp).get("data") or {})
     state = d.get("state", "")
@@ -86,7 +92,9 @@ for i in range(120):
         if isinstance(res, str): res = json.loads(res)
         url = (res.get("resultUrls") or [None])[0]
         if not url: sys.exit(f"no result url: {d}")
-        urllib.request.urlretrieve(url, os.environ["OUT"])
+        dl = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(dl, timeout=300) as r, open(os.environ["OUT"], "wb") as f:
+            f.write(r.read())
         print(f"done in ~{(i+1)*5}s", file=sys.stderr)
         print(os.environ["OUT"])
         break

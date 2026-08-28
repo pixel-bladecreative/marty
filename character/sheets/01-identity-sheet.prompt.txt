@@ -1,0 +1,34 @@
+model: google/nano-banana-edit
+refs: character/reference/marty-climbing-detail.png
+aspect_ratio: 16:9
+
+Cinematic character reference sheet, split-frame layout, high-end animated feature film 3D render.
+Translate the 2D cartoon yeti mascot from the reference image faithfully into
+a fully realized 3D furry character, premium animation studio quality, keeping
+his exact design, proportions and colors.
+
+Left panel — facial close-up: the entire head fully inside the frame including
+both horns, nothing cropped. Dense groomed snow-white fur with individual
+strands and soft flyaways. Two teal-blue horns with soft segment ridges curving
+up and out from the skull. Large round eyes, white sclera, teal-blue irises,
+dark pupils, living eyes with catch-lights. Thin dark expressive eyebrows. Wide
+open friendly grin: a row of big white teeth top and bottom, dark blue lips,
+raspberry-red tongue and mouth interior. No nose, no muzzle, the face sits flat
+in the fur. Calm happy expression, looking straight into lens.
+
+Right panel — full-body front and back views side by side: the same creature
+shown twice, on the left a full-body front view facing camera, on the right a
+full-body back view from directly behind. Standing relaxed, arms hanging at his
+sides, full height in frame head-to-toe. Proportions: head roughly a third of
+standing height, long arms reaching past the knee, short stubby legs, rounded
+huggable silhouette, fluffy oversized chest tapering to slimmer hips, no tail.
+Teal-blue four-fingered hands and teal-blue three-toed feet, the blue blending
+into white fur at wrist and ankle. Fur longest on crown, cheeks, chest and
+shoulders, shorter on belly and limbs. Both figures matched in framing, scale
+and lighting.
+
+Look: clean studio character sheet, plain solid light-grey seamless background,
+consistent character across all views, soft diffused cinematic key light with
+gentle fill, film-VFX fur detail, subtle subsurface scattering in the fur,
+true-to-life material response, vertical divider line separating the panels.
+No text, no labels, no logos.

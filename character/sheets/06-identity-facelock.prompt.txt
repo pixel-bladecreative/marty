@@ -1,0 +1,15 @@
+model: google/nano-banana-edit
+refs: 01b-identity-sheet-v2.png
+aspect_ratio: 16:9
+purpose: pipeline asset, not for client review. The tutorial's face-lock trick:
+a sheet with two visible faces makes video models drift, so the full-body
+front view's face is erased, leaving the close-up as the single face to lock.
+
+Edit this character sheet: in the full-body front view in the middle, replace
+the face with plain white fur, so that panel shows only the furry body shape
+with no eyes, no mouth, no eyebrows. Keep the horns. Keep the facial close-up
+panel on the left and the back view on the right exactly unchanged.
+
+post-process: the edit erased the close-up face too, so the committed file is
+a composite: left panel from 01b-identity-sheet-v2.png, right panel from the
+edit output, joined at x=654 (see git history for the PIL one-liner).

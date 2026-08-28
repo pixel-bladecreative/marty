@@ -1,0 +1,17 @@
+model: google/nano-banana-edit
+refs: 01b-identity-sheet-v2.png
+aspect_ratio: 16:9
+
+A photorealistic film still from a live-action commercial: the friendly yeti
+character from the reference sheet stands on a sunlit city sidewalk next to a
+real adult woman in casual clothes who is smiling at him. The yeti is
+chest-height on her. Everything in the frame is strictly photoreal live-action
+footage, shot on a 35mm cine lens, natural afternoon sunlight, shallow depth of
+field, real storefronts softly blurred behind them. The yeti is integrated like
+a big-budget movie visual effects character: his white fur catches the real
+sunlight with rim light on the silhouette, picks up warm bounce light from the
+pavement, casts a soft accurate contact shadow on the concrete, individual fur
+strands moving slightly in the breeze. He keeps his exact cartoon design, white
+fur, teal ridged horns, teal hands and feet, big friendly grin, while rendered
+with feature-film VFX realism. The woman and the street are real, not
+animated. No text, no logos.

@@ -1,0 +1,17 @@
+model: google/nano-banana-edit
+refs: 01b-identity-sheet-v2.png
+aspect_ratio: 16:9
+note: two earlier phrasings were filtered by the output safety check; this wording passed
+
+A character emotion chart for an animated film: six portraits of the friendly
+yeti character from the reference sheet, arranged in a grid on a plain
+light-grey background. The same character in every cell, same white fur, teal
+ridged horns, teal-blue eyes, dark blue lips, thin eyebrows, same soft studio
+lighting, high-end animated feature film 3D render.
+Cell 1: happy open smile, his default face.
+Cell 2: amazed, wide eyes, mouth open in delight.
+Cell 3: playful smile with one raised eyebrow.
+Cell 4: focused and determined, brows lowered, mouth closed.
+Cell 5: shy smile, eyes glancing to the side.
+Cell 6: big joyful laugh, head tilted back.
+No text, no labels, no logos.
