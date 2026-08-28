@@ -47,3 +47,27 @@ Usage notes:
 - Trim the full song down to the 30s map in SPOT1-BEATSHEET.md; the intro
   groove needs only ~8 usable seconds before the stop.
 - Needle skip, clatter, tire screech: layered in the edit, not from Suno.
+
+## Delivered track v1 (spot1-backing-v1.wav)
+
+Spencer-produced, received 2026-08-28 via Drive. 44.8s, 48kHz stereo WAV,
+measured ~102 BPM. Structure from energy/band analysis (not by ear):
+
+| Track time | Content |
+|---|---|
+| 0:00-0:10 | Intro/verse groove, piano-led, drums light |
+| 0:11, 0:14, 0:16 | Three hard bass/drum dropouts (~1s each), mids continue |
+| 0:17.5-0:28 | Full-band chorus, loudest section |
+| 0:28.5 | Brief transition dip |
+| 0:29-0:38 | Second full section |
+| 0:39-0:40.5 | ~2s breakdown, drums out, sparse mids |
+| 0:41-0:44.8 | Final full-band push, quick out |
+
+Edit map to the 30s beat sheet (cut the music to picture):
+- Picture 0:00-0:08 = track 0:00-0:08 intro groove.
+- Picture 0:08 slap: hard-mute the track in the edit (do not rely on an
+  in-track stop; the dead hole is built at the cut with needle-skip SFX).
+- Picture 0:13-0:18 her decision = the sparse 0:14-0:17.5 stretch, or the
+  0:39-0:40.5 breakdown looped, whichever reads plucky by ear.
+- Picture 0:18 press = jump into the 0:17.5 chorus downbeat, the bloom.
+- Picture 0:27-0:30 = duck under VO, end on the track's closing push.
