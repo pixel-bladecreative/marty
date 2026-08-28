@@ -53,3 +53,9 @@ sheet would not take inside a photo with nano-banana-edit, but
 gpt-image-2-image-to-image applied it cleanly in one pass. The committed file
 is that final pass. Note gpt's render skews the fur slightly longer and
 shaggier than the nano-banana sheets; identity sheets remain the canon look.
+
+pass 6 (gpt-image-2-image-to-image on the pass-5 keeper): Spencer flagged he
+had come back short. "Make the yeti taller so he stands about 6 feet, his
+eyes at the same height as the woman's eyes, exact build and colors kept,
+everything else unchanged." Result reads just over 6 feet, her eye line
+slightly below his. This is the committed final.
