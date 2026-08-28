@@ -1,0 +1,7 @@
+Storyboard frames, all google/nano-banana-edit, 16:9, multi-reference.
+Shared style opening used in every frame prompt:
+"A photorealistic film still from a live-action commercial, 35mm cine lens,
+naturalistic grade. The friendly athletic yeti character exactly as in the
+reference sheet, feature-film VFX creature integration, everything else
+photoreal."
+Frame-by-frame notes appended below as generated.
