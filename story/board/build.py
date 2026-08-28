@@ -14,30 +14,36 @@ def data_uri(relpath, width=1400, quality=82):
     return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
 
 FRAMES = [
-    ("f1-great-day",   "0:00–0:06", "The great day",
-     "Marty strides in through the glass doors, coffee in hand, grinning at the morning.",
+    ("f0-street",      "0:00–0:04", "The street",
+     "Marty solo on the sunlit sidewalk, buoyant, almost dance-stepping along, coffee in hand.",
      "Bright piano-led groove from frame one."),
+    ("f1-great-day",   "0:04–0:06", "The entry",
+     "Through the glass doors of the inner entrance, still bouncing.",
+     "Groove keeps rolling."),
     ("f2-slap",        "0:06–0:08", "The slap",
      "The office bully smirks and presses the crooked DORK sticker onto Marty's chest.",
      "The groove runs right up to the hit."),
     ("f3-skip",        "0:08", "The skip",
      "Close on Marty. The grin dies as he looks down at the label.",
      "Needle skips off the record. Music dead."),
-    ("f4-coffee-down", "0:08–0:13", "The deflation",
+    ("f4-coffee-down", "0:08–0:12", "The deflation",
      "Shoulders slump. The quiet gut-punch: he sets the coffee down and does not sip it.",
      "No music. Office clatter, a dropped tray, a distant tire screech."),
-    ("f5-her-decision","0:13–0:18", "Her decision",
+    ("f5-her-decision","0:12–0:17", "Her decision",
      "Across the floor she sees it happen. A beat of thought, and she makes up her mind.",
      "Pizzicato strings, curious and light, building with her."),
-    ("f6-peel",        "0:18–0:21", "The peel",
+    ("f6-peel",        "0:17–0:20", "The peel",
      "One slow, satisfying pull. The cheap label comes off his fur.",
      "Pizzicato resolves, holding its breath."),
-    ("f7-press",       "0:21–0:24", "The press",
+    ("f7-press",       "0:20–0:23", "The press",
      "Macro: her thumb seats the gold-foil LEGEND label into his chest fur, the foil catching light.",
      "On the press, the piano groove blooms back in, bigger than before."),
-    ("f8-return",      "0:24–0:27", "The return",
-     "Marty lights up, chest out, wearing LEGEND. She laughs. The day is back.",
-     "Full cheery groove, multi-angle pops on the beat."),
+    ("f8-return",      "0:23–0:25", "The return",
+     "Marty lights up, chest out, wearing LEGEND. She laughs with him.",
+     "Full cheery groove."),
+    ("f8b-pat",        "0:25–0:27", "The send-off",
+     "A pat on the shoulder and she walks off, glancing back smiling as he waves after her.",
+     "Groove riding high, multi-angle pops."),
     ("f9-packshot",    "0:27–0:30", "The packshot",
      "The LEGEND label, beauty macro on deep teal, foil gleaming.",
      "Music ducks. VO: “Don’t let labels control you. Take control. Call Sticker Mountain.”"),
@@ -107,10 +113,10 @@ HTML = f'''<title>The Labels Board</title>
 <div class="wrap">
   <div class="eyebrow">Sticker Mountain · Marty · spot 1</div>
   <h1>The Labels Board</h1>
-  <p class="standfirst">Nine frames, thirty seconds. A bully sticks a cheap label on
+  <p class="standfirst">Round 2. Eleven frames, thirty seconds. A bully sticks a cheap label on
   Marty's great day; someone kinder replaces it with a better one. Every frame below
   was generated from the locked character, cast, location, and product references,
-  so what you approve here is what the film will look like.</p>
+  so what you approve here is what the film will look like. This round: crisp air everywhere (no more mist), Marty height-locked above the coworker, the new solo street open, and the new pat-and-walk send-off.</p>
   <p class="meta">30s master · 16:9 center-safe · cutdowns 15s / 6s · music: Spencer's
   102 BPM track, needle-skip and SFX layered in the edit · VO closes: "Don't let
   labels control you. Take control. Call Sticker Mountain."</p>
@@ -123,7 +129,7 @@ HTML = f'''<title>The Labels Board</title>
     details sharpen at the video stage; the bully's smug close-up and Marty's
     full expression range live in the casting sheets.</p>
   </div>
-  <div class="foot">marty · spot 1 storyboard · round 1 · 2026-08-28</div>
+  <div class="foot">marty · spot 1 storyboard · round 2 · 2026-08-28</div>
 </div>
 '''
 

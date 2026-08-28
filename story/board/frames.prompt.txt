@@ -5,3 +5,17 @@ naturalistic grade. The friendly athletic yeti character exactly as in the
 reference sheet, feature-film VFX creature integration, everything else
 photoreal."
 Frame-by-frame notes appended below as generated.
+
+Round 2 (client feedback):
+- f0-street: NEW. Edit of the bible hero shot: woman removed, Marty solo
+  dance-stepping with coffee, crisp air. One pass, nano-banana-edit.
+- f1/f2/f4 de-haze: two nano-banana-edit passes barely moved the baked-in
+  mist; the fix was a deterministic PIL grade (veil subtraction via dark
+  channel percentile, +contrast, +saturation, unsharp). Model edits are the
+  wrong tool for atmosphere removal; grade instead.
+- f6/f8 height-lock: gpt-image-2-image-to-image with the 5'7" anchor wording
+  ("top of his head about 5 inches above hers"), one pass each.
+- f8b-pat: NEW. Edit of fixed f8: she pats his shoulder and walks off
+  glancing back; he waves after her. gpt-image-2, one pass.
+- LOOK and HEIGHT rules now in SPOT1-BEATSHEET.md; they go verbatim into the
+  shotlist style prefix.
