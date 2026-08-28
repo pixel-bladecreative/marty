@@ -1,0 +1,20 @@
+model: google/nano-banana (text-to-image)
+aspect_ratio: 16:9
+
+A casting reference sheet, photorealistic: an office bully character for a
+comedy commercial, funny rather than scary. A smug man in his early 30s,
+gelled-back dark hair, a too-tight pale-blue polo shirt tucked into khakis,
+an office lanyard with a badge, a slight paunch, chin raised, one eyebrow
+up, a self-satisfied smirk that reads comically full of himself. Split-frame
+layout on a plain light-grey studio background. Left panel: facial close-up
+with the smirk, looking into lens. Right panel: full-body front view
+head-to-toe, standing with chest puffed out, hands on hips. Natural
+true-to-life skin, soft even studio lighting, consistent identity across
+both panels. No text, no labels.
+
+pass 2 (edit): first take read too pleasant. Smug it up:
+
+Edit this casting sheet, keeping the same man, wardrobe, layout and
+lighting: make his expression clearly smug and mocking in both panels, chin
+raised higher, one eyebrow arched, eyes half-lidded looking down his nose,
+a broad self-satisfied smirk pulling to one side. Comic, not villainous.

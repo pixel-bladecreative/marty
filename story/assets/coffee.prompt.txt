@@ -1,0 +1,8 @@
+model: google/nano-banana (text-to-image)
+aspect_ratio: 16:9
+
+Product prop sheet of a takeaway coffee cup on a plain light-grey studio
+background: a white paper cup with a white lid and a plain teal cardboard
+sleeve, no logo, no text. Two views side by side: straight-on front view and
+a 3/4 view. A wisp of steam from the lid in the 3/4 view. Soft even studio
+product lighting, photorealistic.

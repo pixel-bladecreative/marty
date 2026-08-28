@@ -1,0 +1,9 @@
+model: gpt-image-2-text-to-image (text accuracy)
+aspect_ratio: 16:9
+
+Product photo sheet of a cheap nasty sticker on a plain light-grey studio
+background: a rectangular white sticker with rounded corners, thin flimsy
+matte paper, the word "DORK" printed in crooked blocky black marker-style
+capital letters. Two views side by side: flat front view, and a 3/4 view
+where one corner curls up showing it is peeling. Slightly skewed printing,
+cheap and careless looking. Soft even studio light. No other text anywhere.

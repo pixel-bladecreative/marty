@@ -1,0 +1,21 @@
+model: google/nano-banana (text-to-image), two plates
+aspect_ratio: 16:9
+
+Plate A (office-a.png):
+A cinematic location plate of a warm modern creative office, photographed at
+a 3/4 angle from just inside the glass entrance doors, looking diagonally
+across the open-plan floor. Morning sunlight streams through tall windows on
+the left, gentle haze in the light. Warm wood floors, white desks in loose
+rows with monitors and desk plants, a few potted trees, exposed ceiling with
+soft pendant lights, a small kitchenette counter with a coffee machine along
+the right wall. Completely empty, no people. Shot on a cinema camera, deep
+focus, naturalistic color grade, true-to-life, not a glossy render. No text,
+no logos, 16:9.
+
+Plate B (office-b.png):
+The same warm modern creative office, reverse angle: photographed at a 3/4
+angle from the far corner of the open floor by the desks, looking back
+toward the glass entrance doors. Same morning light now backlighting the
+entrance with soft haze, same wood floors, white desks with monitors and
+plants in the foreground, the kitchenette counter now on the left. Empty, no
+people. Cinema camera, deep focus, naturalistic grade. No text, no logos.

@@ -1,0 +1,11 @@
+model: gpt-image-2-text-to-image (text accuracy)
+aspect_ratio: 16:9
+
+Product photo sheet of a premium die-cut label on a plain light-grey studio
+background: a badge-shaped label with a layered design in deep teal and
+navy, the word "LEGEND" in embossed gold foil capital letters, raised shiny
+lettering, with a thin gold foil border following the die-cut edge. Two
+views side by side: flat front view, and an angled view where the gold foil
+catches a streak of light and gleams. Luxury sticker finish, raised emboss
+visible, crisp die-cut edge. Studio product photography, soft key light with
+a controlled specular highlight. No other text anywhere.

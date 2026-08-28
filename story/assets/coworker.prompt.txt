@@ -1,0 +1,12 @@
+model: google/nano-banana-edit
+refs: ../../character/sheets/v2/05b-integration-v1-look.png (approved hero shot)
+aspect_ratio: 16:9
+
+A casting reference sheet, photorealistic: the woman from the reference
+photo, exactly the same person, same shoulder-length wavy brown hair with
+bangs, same friendly face. Split-frame layout on a plain light-grey studio
+background. Left panel: facial close-up, warm natural smile, looking into
+lens, soft studio key light. Right panel: full-body front view head-to-toe,
+standing relaxed, wearing her light-wash denim jacket over a white top, dark
+jeans, white sneakers. Natural true-to-life skin, soft even lighting,
+consistent identity across both panels. No text, no labels.
