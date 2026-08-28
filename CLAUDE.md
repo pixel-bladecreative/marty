@@ -7,8 +7,9 @@ generation prompt; it is the single source of truth for the character.
 
 ## Current state
 
-- Milestone 1 (character bible) in progress. Review gate: Spencer and Marcus
-  approve the character before any video generation.
+- Milestone 1 complete: the character bible is APPROVED (round 2, 2026-08-28).
+  Canon is `character/MARTY.md` + the `character/sheets/v2/` sheets. Round 1
+  sheets are archived in `character/sheets/`. Usage: unrestricted per client.
 - Story arc and marketing message: Spencer has one, not yet shared. Do not
   invent campaign story.
 - Format: master 16:9, center-safe framing so 9:16 crops can be derived.

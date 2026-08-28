@@ -1,0 +1,55 @@
+model: google/nano-banana-edit
+refs: ../05-integration.png (v1 shot, scene authority), 01-identity.png (v2 body)
+aspect_ratio: 16:9
+client preferred the v1 image's scene and mood; remake it with the new Marty.
+
+Recreate the first image exactly: the same real woman with curly dark hair in
+the denim jacket and striped top, the same sunlit sidewalk, the same brick
+storefronts softly blurred behind them, the same warm afternoon light, the
+same camera framing and photoreal film look. Change only the yeti: replace
+him with the character from the second reference sheet, six feet tall so his
+eyes are level with the woman's eyes, broad shoulders, deep chest, tapered
+athletic build under full white fur, same face, teal ridged horns, teal hands
+and feet, big friendly grin. He stands in the same spot and the woman laughs
+with him the same way. Keep the feature-film visual effects integration: real
+sunlight on the fur, rim light, soft accurate contact shadow on the concrete.
+
+pass 2 (edit of the output above, with 01-identity.png attached again): the
+scene held but the body came back short and round. Corrective edit:
+
+Edit this photograph, keeping the woman, the street, the light and the
+camera framing exactly the same. Change only the yeti: make him taller, six
+feet, so his eyes are level with the woman's eyes, and rebuild his body to
+match the character sheet in the second reference: broad shoulders clearly
+wider than his hips, a deep chest, a tapered waist, longer legs, an athletic
+build under the full white fur. Same face, same fur, same teal horns, hands
+and feet, same grin, same warm sunlight and contact shadow.
+
+pass 3 (edit of pass 1 output; emphatic body language that worked for the
+identity rebuild). Final attempt:
+
+Edit this photograph. The woman, street, storefronts, light and camera stay
+exactly the same. The yeti must change: he becomes 6 feet tall, his eyes at
+the same height as the woman's eyes, and his body becomes powerfully
+athletic like a gorilla athlete under the full white fur: shoulders much
+wider than his hips, a big deep chest, a flat stomach with a clearly narrow
+tapered waist, long strong legs. No round belly, no pear shape, no barrel
+body: the chest is the widest part and the torso narrows sharply from chest
+to hips. Keep his exact face, grin, teal ridged horns, teal hands and feet,
+full white fur with no bare skin, and the warm sunlight, rim light and
+contact shadow.
+
+pass 4 (edit of pass 3; same fur-cover fix that worked on the identity
+rebuild). Keeper:
+
+Edit this photograph: cover the yeti's chest and stomach completely with the
+same dense white fur as the rest of his body, no bare skin anywhere. His
+muscular chest and athletic shape stay, showing only as strong contours
+under the fur. Everything else in the photograph stays exactly the same.
+
+outcome: pass 3 (nano-banana-edit, emphatic build language) fixed height and
+build but bared the chest; the fur-cover edit that worked on the identity
+sheet would not take inside a photo with nano-banana-edit, but
+gpt-image-2-image-to-image applied it cleanly in one pass. The committed file
+is that final pass. Note gpt's render skews the fur slightly longer and
+shaggier than the nano-banana sheets; identity sheets remain the canon look.

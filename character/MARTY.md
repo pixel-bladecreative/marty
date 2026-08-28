@@ -115,10 +115,9 @@ The face carries the brand. Lock these:
   CG creature.
 - Never photoreal-animal. Stylization stays Pixar, eyes stay big.
 
-## Open questions for Marcus (Sticker Mountain)
+## Client sign-off (2026-08-28)
 
-1. Do brand guidelines exist for Marty (exact blues, proportions, approved
-   poses)? Placeholder palette above should be replaced by brand values.
-2. Is vector source art available? It sharpens every sheet.
-3. Scale decision above is ours; does the client have a canonical size?
-4. Any trademark or usage constraints on how Marty may appear?
+Build, emotional range, and palette confirmed. Usage: no guidelines, use at
+will. Vector source art: none known; the client is checking, and may adopt
+these sheets as the new core of their own branding. The sampled palette
+stands as canon unless brand values surface.

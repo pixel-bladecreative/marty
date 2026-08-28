@@ -20,7 +20,7 @@ def data_uri(relpath, width=1400, quality=82):
     return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
 
 IMG = {
-    "integration": data_uri("character/sheets/v2/05-integration.png"),
+    "integration": data_uri("character/sheets/v2/05b-integration-v1-look.png"),
     "identity":    data_uri("character/sheets/v2/01-identity.png"),
     "exp_up":      data_uri("character/sheets/v2/02-expressions-up.png"),
     "exp_down":    data_uri("character/sheets/v2/03-expressions-down.png"),
@@ -165,11 +165,10 @@ HTML = f'''<title>The Marty Bible</title>
     <img src="{IMG["integration"]}" alt="CG Marty standing beside a real woman on a sunlit city sidewalk">
     <figcaption>
       <div class="plate-head"><span class="plate-label">Proof of premise</span></div>
-      <p>CG Marty sharing a frame with a real person. Real sunlight, real contact shadow,
-      rim light on the fur, everything else in frame photoreal. This is the look the whole
-      video series is built on: the world stays live-action, and Marty is the one animated
-      thing in it, rendered to feature-film standard.</p>
-      <p class="check"><strong>Check this:</strong> he now stands about six feet, eye to eye with an adult. Is this the big friendly buddy the client described?</p>
+      <p>The round 1 scene the client picked as the favorite, remade with the round 2
+      Marty: six feet, eye to eye with her, broad shoulders and a tapered build under
+      full fur. Real sunlight, real contact shadow, rim light on the fur, everything
+      else in frame photoreal. This is the look the whole video series is built on.</p>
     </figcaption>
   </figure>
 
@@ -231,13 +230,10 @@ HTML = f'''<title>The Marty Bible</title>
     "A production tool, not a portrait. Video models drift when a reference sheet contains more than one face, so this variant keeps exactly one: the close-up. The body views carry shape and color only. Included here for completeness; viewers can skip it.",
     tag="internal")}
 
-  <h2>Decisions to confirm</h2>
+  <h2>Sign-off status</h2>
+  <p>Build, range, palette, and usage are confirmed. One item stays open:</p>
   <ol class="decisions">
-    <li><strong>The new build.</strong> Confirm the round 2 body: athletic, tapered, six feet. Resolved in this round unless the client wants another pass.</li>
-    <li><strong>The down range.</strong> Approve the six sad-side expressions, or flag any cell that misses.</li>
-    <li><strong>Colors.</strong> The palette is sampled from the website art. If brand guideline values exist, they replace the sampled ones.</li>
-    <li><strong>Source art.</strong> Vector originals of Marty, if they exist, would sharpen every future sheet.</li>
-    <li><strong>Usage.</strong> Any trademark or brand rules on how Marty may appear.</li>
+    <li><strong>Source art.</strong> No better vectors known; the client is checking. These sheets may end up as the new core of the brand's own art.</li>
   </ol>
 
   <h2>What happens after sign-off</h2>
@@ -249,7 +245,7 @@ HTML = f'''<title>The Marty Bible</title>
   </div>
   <p>Nothing on this page is published anywhere. It is a private review link.</p>
 
-  <div class="foot">marty · character bible · round 2 · 2026-08-28 · round 1 archived in the repo</div>
+  <div class="foot">marty · character bible · round 2, approved · 2026-08-28 · round 1 archived in the repo</div>
 </div>
 '''
 
