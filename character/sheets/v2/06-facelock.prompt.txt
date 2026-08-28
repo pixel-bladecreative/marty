@@ -1,0 +1,12 @@
+model: google/nano-banana-edit
+refs: 01-identity.png (v2 master)
+aspect_ratio: 16:9
+purpose: pipeline asset. One face only, per the tutorial's face-lock trick.
+
+Edit this character sheet: in the full-body front view, replace the face with
+plain white fur, so that panel shows only the furry body shape with no eyes,
+no mouth, no eyebrows. Keep the horns. Keep the facial close-up panel on the
+left and the back view on the right exactly unchanged.
+
+post-process: as in v1, the edit erases the close-up face too; the committed
+file composites the close-up panel from 01-identity.png over the left half.

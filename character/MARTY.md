@@ -24,18 +24,21 @@ sharpen every sheet.
 
 ### Build and silhouette
 
-- Bipedal, rounded and huggable. Fluffy oversized head and chest tapering to
-  slimmer hips; arms slightly long for the body, legs short.
-- Scale: chest-height on an average adult, about 1.35 m / 4 ft 5 in standing.
-  Big enough to read as a yeti, small enough to be endearing and to share
-  frame with people at conversational distance. PROPOSED, awaiting sign-off.
+Revised per client feedback 2026-08-28. Round 1's chest-height round build is
+superseded; the v1 sheets stay in the repo for history.
+
+- Bipedal, athletic wild-animal build under the fur. Broad shoulders, deep
+  chest, tapered waist, muscular arms, longer legs. A beast's frame with a
+  best friend's face: the power is in the body, the warmth is in the face.
+- Scale: 1.83 m / 6 ft standing. Eye to eye with adults; the big friendly
+  buddy who fills a doorway, not a small sidekick.
 - Two horns, one each side, curving up and out from the upper skull, with
   soft segment ridges along their length.
 - Four fingers per hand, three toes per foot. Fingertips and toes end in soft
   rounded points, not claws.
 - No tail.
-- Proportions per the site art: head is roughly a third of standing height,
-  arms long and reach past the knee, legs short and stubby.
+- Head large for the frame but less than the v1 third-of-height; long arms,
+  fingertips near the knee; shoulders clearly wider than hips.
 
 ### Palette
 
@@ -83,7 +86,12 @@ The face carries the brand. Lock these:
 ## Personality and movement
 
 - Enthusiastic, warm, eager to help, easily delighted. Physical-comedy energy:
-  big anticipation, big reactions, quick recovery from his own mishaps.
+  big anticipation, big reactions, quick recovery from his own mishaps. The
+  big dumb buddy: strong, guileless, all heart.
+- The register runs both ways. Cheerful is the default, but he plays the
+  full downside too: disappointment, being upset (frustration, never rage),
+  feeling sorry for himself, genuine sadness. He commits to these completely,
+  which is what makes them funny and touching, and he never stays down long.
 - Moves with weight. He is a real creature in real physics: floors thud
   softly, fur settles a half-beat after he stops, objects he holds obey
   gravity. Cartoon physics only if a script explicitly calls for it.
@@ -98,7 +106,10 @@ The face carries the brand. Lock these:
 ## Never
 
 - Never speaks words. No lip-sync anywhere in the pipeline.
-- Never menacing, never sad-sack. Setbacks are comic, recovery is fast.
+- Never menacing. Upset means frustrated, hurt, or deflated, never
+  threatening; his size never becomes scary.
+- Never stuck in the dumps. Sadness and self-pity are played fully but they
+  are visits, not a residence; recovery is fast.
 - Never off-model color: no blue body fur, no extra blue elements.
 - Never rendered as a costume, plush toy, or human in a suit. He is a living
   CG creature.

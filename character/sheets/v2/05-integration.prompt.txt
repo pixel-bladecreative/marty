@@ -1,0 +1,21 @@
+model: google/nano-banana-edit
+refs: 01-identity.png (v2 master)
+aspect_ratio: 16:9
+round 2: Marty is now 6 feet tall, eye to eye with adults.
+note: "walks beside... mid-conversation... her big goofy best friend"
+phrasing was filtered twice; the v1-style wording below passes.
+
+A photorealistic film still from a live-action commercial: the friendly
+athletic yeti character from the reference sheet stands on a sunlit city
+sidewalk next to a real adult woman in casual clothes who is laughing with
+him. He is 6 feet tall and his eyes are level with hers, broad shoulders,
+a big easy presence. Everything in the frame is strictly photoreal
+live-action footage, shot on a 35mm cine lens, natural afternoon sunlight,
+shallow depth of field, real storefronts softly blurred behind them. The
+yeti is integrated like a big-budget movie visual effects character: white
+fur catching real sunlight with rim light on the silhouette, warm bounce
+light from the pavement, a soft accurate contact shadow on the concrete,
+individual fur strands moving in the breeze. He keeps his exact design,
+white fur, teal ridged horns, teal hands and feet, big friendly grin,
+rendered with feature-film VFX realism. The woman and the street are real,
+not animated. No text, no logos.

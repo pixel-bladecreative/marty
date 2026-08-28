@@ -20,12 +20,13 @@ def data_uri(relpath, width=1400, quality=82):
     return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
 
 IMG = {
-    "integration": data_uri("character/sheets/05-integration.png"),
-    "identity":    data_uri("character/sheets/01b-identity-sheet-v2.png"),
-    "expressions": data_uri("character/sheets/02-expressions.png"),
-    "poses":       data_uri("character/sheets/03-poses.png"),
+    "integration": data_uri("character/sheets/v2/05-integration.png"),
+    "identity":    data_uri("character/sheets/v2/01-identity.png"),
+    "exp_up":      data_uri("character/sheets/v2/02-expressions-up.png"),
+    "exp_down":    data_uri("character/sheets/v2/03-expressions-down.png"),
+    "poses":       data_uri("character/sheets/v2/04-poses.png"),
     "fur":         data_uri("character/sheets/04-fur-macro.png"),
-    "facelock":    data_uri("character/sheets/06-identity-facelock.png"),
+    "facelock":    data_uri("character/sheets/v2/06-facelock.png"),
     "source":      data_uri("character/reference/marty-climbing-detail.png", width=700, quality=85),
 }
 
@@ -154,10 +155,11 @@ HTML = f'''<title>The Marty Bible</title>
 </style>
 
 <div class="wrap">
-  <div class="eyebrow">Sticker Mountain · character development · round 1</div>
+  <div class="eyebrow">Sticker Mountain · character development · round 2</div>
   <h1>The Marty Bible</h1>
   <p class="standfirst">Marty, rebuilt as a film-grade CG character who lives in the
-  real world. This page is the review gate: nothing moves until the character is right.</p>
+  real world. Round 2: the athletic build, six feet tall, and the sad side of his range,
+  per client feedback. Face, fur, and colors are unchanged from the approved round 1.</p>
 
   <figure class="plate">
     <img src="{IMG["integration"]}" alt="CG Marty standing beside a real woman on a sunlit city sidewalk">
@@ -167,7 +169,7 @@ HTML = f'''<title>The Marty Bible</title>
       rim light on the fur, everything else in frame photoreal. This is the look the whole
       video series is built on: the world stays live-action, and Marty is the one animated
       thing in it, rendered to feature-film standard.</p>
-      <p class="check"><strong>Check this:</strong> does this feel like the Marty you want standing next to your customers?</p>
+      <p class="check"><strong>Check this:</strong> he now stands about six feet, eye to eye with an adult. Is this the big friendly buddy the client described?</p>
     </figcaption>
   </figure>
 
@@ -196,32 +198,43 @@ HTML = f'''<title>The Marty Bible</title>
   </ul>
 
   <h2>The identity sheet</h2>
-  {plate("identity", "Sheet 01 · Identity",
-    "The master reference. The close-up locks the face; the front and back views lock the build. Every future image and every second of video is generated against this sheet, so this is the one to get right.",
-    check="horn shape and ridges, hand and foot color, mouth colors, overall body shape. The build came out rounder and more huggable than the slimmer vector Marty. Keep the round build, or slim him toward the source?")}
+  {plate("identity", "Sheet 01 · Identity · v2",
+    "The new master reference. The face is pixel-for-pixel the approved round 1 face; only the body underneath was rebuilt. Broad shoulders, deep chest, tapered waist, longer legs, a wild animal's frame under the fur, still all warmth above the neck.",
+    check="the build. Athletic enough? Too athletic? The muscle shows as contours under full fur, never bare skin.")}
 
-  <h2>The acting range</h2>
-  {plate("expressions", "Sheet 02 · Expressions",
-    "Six faces, one character. Left to right, top row: the default grin, amazed delight, a gentle smile. Bottom row: unimpressed deadpan, a content sly smile, a big laugh. The deadpan was not scripted but it is a gift for comedy timing and worth keeping.",
+  <h2>The acting range, up</h2>
+  {plate("exp_up", "Sheet 02 · Expressions · up range",
+    "Six faces, one character, on the new shoulders. The default grin, amazed delight, a gentle smile, the deadpan, a bashful hands-clasped moment, and a big laugh.",
     check="does the personality read as Marty in every cell, even the quiet ones?")}
-  {plate("poses", "Sheet 03 · Poses",
-    "Full-body acting: run, jump, presenting to camera, double thumbs up, a playful tiptoe sneak, and a proud hero stance. Marty carries no dialogue in the videos, so body language like this does the talking.",
+
+  <h2>He can lose, too</h2>
+  <p>New in round 2, per client request. Marty carries no dialogue, so when a story
+  needs a setback, his face and shoulders have to play it. This range keeps him
+  sympathetic the whole way down: disappointed, frustrated, feeling sorry for
+  himself, genuinely sad, pleading, and the smile starting to come back. Never
+  scary, never bitter, always the big guy you want to cheer up.</p>
+  {plate("exp_down", "Sheet 03 · Expressions · down range",
+    "Disappointed, a frustrated pout, hangdog self-pity, real sadness, big pleading eyes, and the recovery beginning. The recovery cell matters most: sadness is a visit, not a residence.",
+    check="cell by cell, is he ever less than lovable? If any cell tips toward scary or pathetic, it goes.")}
+
+  {plate("poses", "Sheet 04 · Poses · v2",
+    "Full-body acting on the athletic build: run, jump, presenting to camera, double thumbs up, a playful tiptoe sneak, and a proud hero stance. Marty carries no dialogue in the videos, so body language like this does the talking.",
     check="anything here he would never do, or a signature pose that is missing?")}
 
   <h2>Up close, where believability lives</h2>
-  {plate("fur", "Sheet 04 · Materials",
-    "Fur, horn, and palm at film close-up distance. Individual strands, soft clumping, flyaway hairs at the edges, micro-texture on the horn. This is the level of detail that makes a CG character survive a real-world frame instead of looking pasted in.")}
+  {plate("fur", "Sheet 05 · Materials",
+    "Fur, horn, and palm at film close-up distance. Individual strands, soft clumping, flyaway hairs at the edges, micro-texture on the horn. Carried over from round 1 unchanged: the finishes are approved.",
+    tag="round 1, approved")}
 
   <h2>Pipeline asset</h2>
-  {plate("facelock", "Sheet 05 · Face lock",
+  {plate("facelock", "Sheet 06 · Face lock",
     "A production tool, not a portrait. Video models drift when a reference sheet contains more than one face, so this variant keeps exactly one: the close-up. The body views carry shape and color only. Included here for completeness; viewers can skip it.",
     tag="internal")}
 
   <h2>Decisions to confirm</h2>
   <ol class="decisions">
-    <li><strong>Body build.</strong> The CG Marty is rounder than the vector art. It reads warm and huggable on screen. Confirm the round build or ask for a slimmer pass.</li>
-    <li><strong>Scale.</strong> Proposed: chest height on an adult, about 4 ft 5. Big enough to be a yeti, small enough to be endearing next to customers.</li>
-    <li><strong>Eyebrows.</strong> They came out frost-grey and subtle. The source art has thin dark brows. Either works on camera; pick one.</li>
+    <li><strong>The new build.</strong> Confirm the round 2 body: athletic, tapered, six feet. Resolved in this round unless the client wants another pass.</li>
+    <li><strong>The down range.</strong> Approve the six sad-side expressions, or flag any cell that misses.</li>
     <li><strong>Colors.</strong> The palette is sampled from the website art. If brand guideline values exist, they replace the sampled ones.</li>
     <li><strong>Source art.</strong> Vector originals of Marty, if they exist, would sharpen every future sheet.</li>
     <li><strong>Usage.</strong> Any trademark or brand rules on how Marty may appear.</li>
@@ -236,7 +249,7 @@ HTML = f'''<title>The Marty Bible</title>
   </div>
   <p>Nothing on this page is published anywhere. It is a private review link.</p>
 
-  <div class="foot">marty · character bible · round 1 · 2026-08-28</div>
+  <div class="foot">marty · character bible · round 2 · 2026-08-28 · round 1 archived in the repo</div>
 </div>
 '''
 

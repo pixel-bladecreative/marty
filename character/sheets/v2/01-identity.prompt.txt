@@ -1,0 +1,28 @@
+model: google/nano-banana-edit
+refs: ../01b-identity-sheet-v2.png (round 1 approved master)
+aspect_ratio: 16:9
+round 2: client body revision. Face and finishes locked, body rebuilt.
+note: a gentler first phrasing barely changed the body; this emphatic
+version with explicit negatives produced the approved result.
+
+Edit this character reference sheet. Keep the head, face, eyes, eyebrows,
+mouth, horns, fur color and every surface finish exactly the same, and keep
+the same panel layout, light-grey background and soft studio lighting.
+Completely rebuild the body with a powerful athletic physique: a wide
+V-shaped torso like a gorilla athlete, broad heavy shoulders twice the width
+of the hips, a big deep chest, a flat stomach and clearly narrow tapered
+waist, thick muscular arms with fingertips hanging near the knees, long
+strong legs. No round belly, no pear shape, no barrel body: the chest is the
+widest part and the body narrows sharply from chest to hips. He stands 6
+feet tall with upright confident posture, strong but friendly. Same teal
+four-fingered hands and teal three-toed feet, same white fur everywhere.
+The facial close-up panel stays unchanged. The full-body front and back
+views show the new athletic build head-to-toe.
+
+pass 2 (on the output above): the athletic build came in but the front view
+had a bare hairless chest and abs. Corrective edit:
+
+Edit this character sheet: in the full-body front view, cover the chest and
+stomach completely with the same dense white fur as the rest of the body, no
+bare skin anywhere. The muscular chest and athletic shape stay, showing only
+as strong contours under the fur. Everything else stays exactly the same.

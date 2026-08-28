@@ -1,0 +1,22 @@
+model: google/nano-banana-edit
+refs: 01-identity.png (v2 master)
+aspect_ratio: 16:9
+round 2 addition: the client wants the downside of his range.
+
+A character emotion chart for an animated film: six portraits of the friendly
+yeti character from the reference sheet, head and broad shoulders, arranged in
+a grid on a plain light-grey background. The same character in every cell,
+same white fur, teal ridged horns, teal-blue eyes, dark blue lips, thin
+eyebrows, same soft studio lighting, high-end animated feature film 3D render.
+This chart covers his sad side, always sympathetic and gentle, never scary:
+Cell 1: disappointed, eyebrows raised at the middle, mouth closed in a small
+frown, eyes big.
+Cell 2: frustrated pout, brows pushed together, cheeks puffed, lips pressed,
+like a big kid who lost a game.
+Cell 3: feeling sorry for himself, head drooping, shoulders slumped, eyes
+looking up from under his brows.
+Cell 4: genuinely sad, eyes glistening, mouth a soft downturned curve.
+Cell 5: hopeful pleading look, big puppy eyes, tiny worried smile.
+Cell 6: the smile just starting to come back, one corner of the mouth lifting
+while the eyes are still a little wet.
+No text, no labels, no logos.
