@@ -59,3 +59,9 @@ had come back short. "Make the yeti taller so he stands about 6 feet, his
 eyes at the same height as the woman's eyes, exact build and colors kept,
 everything else unchanged." Result reads just over 6 feet, her eye line
 slightly below his. This is the committed final.
+
+pass 7 (gpt-image-2-image-to-image): previous pass overshot the height.
+Spencer supplied a hard anchor: the woman is 5'7". Prompt asked for the top
+of his head, horns excluded, about 5 in / 13 cm above hers, eyes just barely
+above her eye line, "a tall friend, not towering". Pixel check on the result:
+eye line just above hers, crown about half a head over her. Committed final.

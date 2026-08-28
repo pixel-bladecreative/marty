@@ -30,8 +30,10 @@ superseded; the v1 sheets stay in the repo for history.
 - Bipedal, athletic wild-animal build under the fur. Broad shoulders, deep
   chest, tapered waist, muscular arms, longer legs. A beast's frame with a
   best friend's face: the power is in the body, the warmth is in the face.
-- Scale: 1.83 m / 6 ft standing. Eye to eye with adults; the big friendly
-  buddy who fills a doorway, not a small sidekick.
+- Scale: 1.83 m / 6 ft standing, horns excluded. Framing anchor for every
+  prompt: next to a 5'7" adult, the top of his head sits about 5 inches
+  higher and his eye line is just barely above theirs. A tall friend, never
+  towering.
 - Two horns, one each side, curving up and out from the upper skull, with
   soft segment ridges along their length.
 - Four fingers per hand, three toes per foot. Fingertips and toes end in soft
