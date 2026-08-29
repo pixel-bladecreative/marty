@@ -1,0 +1,2 @@
+Shared blocks used by every scene prompt (crisp-look override of the stock
+grade per client LOOK rule; structure per the seedance-25 skill).
