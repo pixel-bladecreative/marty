@@ -1,0 +1,33 @@
+model: gpt-image-2-text-to-image (bright clean renders; nano-banana's v1
+plates carried baked-in haze that poisoned every downstream shot)
+aspect_ratio: 16:9
+round 2 per take-1 feedback: crisp, commercially lit, real 3D space, zero
+haze, 1-2 extras. Postmortem note: the v1 prompt itself asked for "gentle
+haze in the light". Never request atmosphere in a plate again.
+
+Plate A (office-v2-a.png):
+A cinematic location plate of a bright modern creative office, photographed
+at a 3/4 angle from just inside black-framed glass entrance doors, looking
+diagonally across the open-plan floor. Commercial advertising lighting:
+bright, even and crisp, the whole room cleanly exposed, large daylight
+windows on the left plus clean white ceiling fixtures, perfectly clear air,
+zero haze, zero mist, deep focus with sharp detail from the nearest desk to
+the far wall, strong sense of real three-dimensional depth down the room.
+Warm wood floor, white desks in rows with monitors and small plants, a
+kitchenette counter with an espresso machine along the right wall. Exactly
+two office workers, naturally part of the scene and lit identically to the
+room: a man seated at a far desk typing at his monitor, and a woman in
+mid-distance walking with a folder. Photorealistic, naturalistic
+true-to-life color, cinema camera. No text, no logos.
+
+Plate B (office-v2-b.png):
+The same bright modern creative office, reverse angle: photographed at a
+3/4 angle from the far corner of the open floor near the desks, looking
+back toward the black-framed glass entrance doors. Same commercial
+lighting: bright, even, crisp, perfectly clear air, zero haze, deep focus,
+real three-dimensional depth. Daylight windows now on the right, warm wood
+floor, white desks with monitors in the foreground, the kitchenette counter
+on the left. Exactly two office workers lit identically to the room: a man
+seated at a foreground desk on the phone, a woman at the kitchenette
+pouring coffee. Photorealistic, naturalistic true-to-life color, cinema
+camera. No text, no logos.
