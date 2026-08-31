@@ -14,3 +14,10 @@ commercial light with the window side slightly brighter, soft neutral
 shadows, a real contact shadow on the wood floor, light color identical to
 the office's neutral daylight, no studio look, no warm cast, no rim glow
 that the room does not motivate. Identity exactly per the reference sheet.
+
+Fix pass on lit-bully.png (per Spencer's "3D and cut out" note): second
+nano-banana-edit run with the sheet itself + office-v2-a as refs, asking for
+full-body reframe head to shoes, feet planted with a real contact shadow,
+room-motivated falloff instead of flat frontal light, no cut-out edges.
+Front panel came back full body and grounded; profile panel stayed a bust,
+accepted since the full-body panel carries the grounding reference.

@@ -36,3 +36,37 @@ Board patch frames chained from the new plates (f1v2, f2v2, f4v2, f5v2,
 f6v2). Known still-level flaw: f6v2's Marty face carries an off-canon nose
 that survived three edit passes; the video prompt's identity ref and "NO
 nose" text overrode it, as expected.
+
+## Take 3 (2026-08-31) — gait, color temp, s4 relocation
+
+Per FEEDBACK-take2.md. Spencer approved the in-situ lighting sheets with
+two caveats: the coworker reads slightly large in her sheet (watch it in
+motion) and the bully sheet read "3D and cut out". One fix pass on
+lit-bully.png (nano-banana-edit, sheet + office-v2-a as refs): full-body
+reframe with feet planted and a real contact shadow; front panel came back
+grounded, profile panel stayed a bust, accepted. ~4 credits.
+
+Retakes s1/s3/s4, 756 credits each (2,268 total), keeping s2-v2 and s5.
+Prompt changes: lit-*.png sheets lead the reference list as "standing
+inside this office lit by the room"; s1 got a dedicated HOW MARTY MOVES
+block (heel-toe weight transfer, arms swinging, varied expression, looks
+at people, clean line clear of desks, never intersecting objects); s3 got
+an explicit her-color-temperature clause (same white balance as walls,
+never warmer than the room) and a soft peel follow-through (no clamp);
+s4 restaged entirely in the v2 office (LOCATION block pinned to the
+office-v2-a plate, f6v2 kitchenette spot for staging continuity).
+
+QC from stills, reel3-silent.mp4 = s1-v3 + s2-v2 + s3-v3 + s4-v3 + s5:
+- s1-v3: gait fix landed. Real arm swing, varied expression, a clean
+  two-step, feet connecting, no desk clipping visible in samples. Flag:
+  Marty's build drifts rounder/chubbier in the office beat than the
+  athletic street Marty.
+- s3-v3: her color temp now matches the room everywhere; one DORK
+  sticker; peel staged face to face. Flag: close-ups picked up a visible
+  flat nose (f6v2's known flaw leaked through this take).
+- s4-v3: all beats now in the v2 office; LEGEND continuity holds; he is
+  taller than her. Build slightly round in the wides.
+
+Running total: take 1 3,402 + take 2 2,268 + lit sheets ~12 + bully fix
+~4 + take 3 2,268 ≈ 7,954 credits (~$40). Balance at session start was
+14,502.
