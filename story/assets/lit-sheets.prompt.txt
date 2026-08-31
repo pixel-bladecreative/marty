@@ -1,0 +1,16 @@
+In-situ lighting sheets, per take-2 feedback: the grey-studio casting sheets
+carry studio lighting into the scenes, so each character gets a reference
+standing INSIDE office-v2-a, lit by the room. These become the primary video
+refs; grey sheets remain for identity detail. nano-banana-edit, refs =
+character sheet + office-v2-a plate.
+
+Shared prompt body (per character, names swapped):
+Split-frame lighting reference, two panels side by side, both photorealistic
+film stills inside the bright office from the location plate, same spot on
+the open wood floor near the desks. Left panel: the character standing in a
+relaxed neutral front three-quarter view. Right panel: the same character in
+left profile. In both panels they are lit ENTIRELY by the room: bright even
+commercial light with the window side slightly brighter, soft neutral
+shadows, a real contact shadow on the wood floor, light color identical to
+the office's neutral daylight, no studio look, no warm cast, no rim glow
+that the room does not motivate. Identity exactly per the reference sheet.
