@@ -183,6 +183,26 @@ HTML = f'''<title>The Marty Bible</title>
     margin-top: 70px; padding-top: 18px; border-top: 1px solid var(--panel-edge);
     font-family: "IBM Plex Mono", monospace; font-size: 12.5px; color: var(--ink-soft);
   }}
+  @media print {{
+    :root, :root:not([data-theme="light"]), :root[data-theme="dark"] {{
+      --ground: #FFFFFF;
+      --panel: #EFF6FA;
+      --panel-edge: #C9DEE9;
+      --ink: #16303E;
+      --ink-soft: #4A6472;
+      --teal: #0082B1;
+      --teal-deep: #00658A;
+      --warm: #C72A50;
+      --chip-edge: rgba(22,48,62,.14);
+    }}
+    body {{ font-size: 14px; }}
+    .wrap {{ max-width: none; padding: 0 0 20px; }}
+    .standfirst {{ font-size: 16px; }}
+    h2 {{ margin-top: 36px; break-after: avoid; }}
+    .plate, .spec, .rules > div, .duo figure, .chips li, .why {{ break-inside: avoid; }}
+    .plate {{ margin: 18px 0 22px; }}
+    .foot {{ margin-top: 40px; }}
+  }}
 </style>
 
 <div class="wrap">
