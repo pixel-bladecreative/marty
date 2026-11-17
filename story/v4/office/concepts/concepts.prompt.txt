@@ -1,0 +1,16 @@
+Office concept round 1 (v4 pipeline, Higgsfield via Composio CLI)
+Models: *-gpt = gpt_image_2_5 (quality high, 2k), *-nbp = nano_banana_pro. 16:9.
+cinematic_studio_2_5 was tried first and ignored the brief; those six were discarded.
+
+Shared brief (appended to every direction):
+Empty location plate with no people anywhere. Photographed from just inside the entrance with the camera at 5 feet high on a 28mm lens, looking straight down the length of the room. A wide clear central walkway at least 10 feet across runs from the camera to the far wall, completely free of furniture, bins, cables and clutter. All furniture is low and set well back along the two sides. Tall daylight windows run along the entire left wall only; bright late-morning sun through them is the single dominant light source, with soft bounce fill and clear soft shadows falling toward the right. A standard 6 foot 8 inch interior door on the right wall and ordinary 29 inch high desks with office chairs give true human scale; the ceiling is 12 feet high. Crisp deep focus from the nearest desk to the far wall, perfectly clear air, no haze, no mist, no lens flare. Photorealistic live-action photography on a cinema camera, naturalistic true-to-life color. No text, no lettering, no logos, no signage.
+
+A-sticker-studio:
+The bright open-plan office and studio of a sticker and label printing company. Light oak floor, white walls with one deep teal accent wall at the far end. Along the right side, a rack of large rolls of glossy label stock and a pinboard wall covered in colorful blank die-cut sticker shapes with no lettering. White desks with monitors and small plants along the left under the windows. A small kitchenette counter with an espresso machine at the far right. 
+
+B-daylight-loft:
+A bright creative office in a converted brick warehouse loft. Polished pale concrete floor, exposed red brick on the right wall, black steel-framed factory windows, white-painted timber ceiling beams. Long oak worktables with monitors along the left under the windows, a low leather sofa and shelving along the brick wall on the right, a kitchenette counter with an espresso machine at the far end. Sparse and uncluttered. 
+
+C-modern-agency:
+A bright clean modern advertising agency office. Warm white oak floor, white walls, a glass-walled meeting room on the right side, pale wood desks with monitors and green plants along the left under the windows, a kitchenette counter with an espresso machine at the far right. Minimal, calm and tidy. 
+
