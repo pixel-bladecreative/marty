@@ -1,0 +1,8 @@
+Re-photograph the first reference image, which is a low-resolution video frame, as a sharp high-resolution still. Keep exactly the same camera position, framing, room, architecture, furniture positions and colours as that frame; do not move or redesign anything. The second reference image shows the same office from another angle: match its materials, its bright even ceiling-panel lighting, its mustard fabric, grey carpet tiles and white tile ceiling exactly. Fix only video artefacts: remove motion blur and smearing, make every edge crisp, straighten warped lines, make the ceiling grid and carpet tiles regular. {extra} No people. Monitors show a plain soft pale grey glow. Crisp deep focus, clear air, no haze. Photorealistic live-action interior photography. No text, no lettering, no logos.
+
+extras:
+{
+ "P2-pod-printer": "",
+ "P3-printer-rack": "The rack holds rolls of glossy coloured label stock; the pinboard holds blank coloured die-cut sticker shapes with no lettering.",
+ "P4-door-wall": "Make the desks look lived-in and mid-workday like the second image: mugs, notebooks, headphones, a desk lamp, small plants, a jacket on one chair back, a backpack by a desk, chairs at casual angles. The grey door in the far wall is a standard 6 foot 8 inch door and stays closed."
+}
