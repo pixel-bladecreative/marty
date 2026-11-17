@@ -1,0 +1,15 @@
+Casting portraits: soul_cinematic, quality 2k, 3:4, text only.
+Shared tail: Casting portrait photograph for a commercial, head and shoulders, facing the camera, eyes to lens. Plain flat seamless 18 percent neutral gray studio background. Soft even frontal light with no dramatic shadows and no colored light, so the face reads neutrally. Natural true-to-life skin with visible pores and texture, realistic hair strands, no retouching, no makeup-ad gloss. 85mm lens, sharp focus across the whole face. An ordinary believable office worker, not a model. No text, no logos.
+
+friend-1: A warm, quick-witted woman of about 30, white, shoulder-length wavy chestnut brown hair with soft bangs, light freckles, a kind open face and an easy closed-mouth smile with a hint of mischief. She wears an olive green utility jacket over a cream t-shirt.
+
+friend-2: A warm, quick-witted Black woman of about 30 with shoulder-length natural curls, bright expressive eyes, a kind open face and an easy closed-mouth smile with a hint of mischief. She wears a rust-orange blouse with the sleeves rolled, a thin gold necklace.
+
+friend-3: A warm, quick-witted East Asian woman of about 30 with a dark chin-length bob, round tortoiseshell glasses, a kind open face and an easy closed-mouth smile with a hint of mischief. She wears a forest green cardigan over a white t-shirt.
+
+bully-1: A smug office bully for a comedy commercial, funny and pathetic rather than threatening: a white man of about 33 with gelled-back dark hair, a slightly soft jaw, chin raised, one eyebrow arched, eyes half-lidded looking down his nose, a self-satisfied smirk pulling to one side. He wears a too-tight salmon pink polo shirt with the collar popped and an office lanyard.
+
+bully-2: A smug office bully for a comedy commercial, funny and pathetic rather than threatening: a white man of about 35 with neatly side-parted sandy hair and a thin moustache, chin raised, one eyebrow arched, eyes half-lidded looking down his nose, a self-satisfied smirk pulling to one side. He wears a short-sleeved white dress shirt with a wide burgundy tie and two pens in the chest pocket, an office lanyard.
+
+bully-3: A smug office bully for a comedy commercial, funny and pathetic rather than threatening: a tall lanky man of about 34 with a receding hairline and a too-neat goatee, chin raised, one eyebrow arched, eyes half-lidded looking down his nose, a self-satisfied smirk pulling to one side. He wears a grey quarter-zip fleece vest over a red checked shirt, a wireless earpiece in one ear and an office lanyard.
+
