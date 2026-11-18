@@ -6,15 +6,15 @@ take2/s1-great-morning 10.1 11.4 entry inside
 take3/s2-slap-skip 3.1 5.4 slap
 take3/s2-slap-skip 6.4 7.5 dork insert
 take3/s2-slap-skip 9.0 11.1 skip
-take2/s3-deflate-notice 1.5 2.8 deflate
+take5/a-deflate 2.0 3.4 deflate
 take4/s3-deflate-notice 4.3 5.7 rack focus
 take4/s3-deflate-notice 8.3 9.8 her decision
 take4/s3-deflate-notice 10.7 11.6 legend drawer
-take4/s4-peel-press 2.6 3.9 she crosses
+take6/b-cross 1.2 2.2 she crosses
 take4/s4b-peel 2.2 4.6 peel
 take2/s4-peel-press 7.5 9.2 press
-take4/s4-peel-press 10.5 11.9 first smile
-take3/s5a-lightsup 2.5 4.3 lights up
-take4/s5c-pat 0.3 2.1 pat
-take3/s5b-strut 3.7 5.4 strut
-take3/s5-return 10.0 11.6 final close-up
+take6/c-firstsmile 3.3 4.8 first smile
+take5/d-lightsup 2.4 4.3 lights up
+take5/e-pat 0.3 2.1 pat
+take5/f-strut 2.3 4.0 strut
+take5/g-final 2.7 4.4 final close-up
