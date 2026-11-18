@@ -1,29 +1,20 @@
-# Spot 1 shot list, v4 rebuild
+# Spot 1 shot list, v4 rebuild (revision 2)
 
-Each office shot starts from an approved still in `frames/`. Composition mix:
-2 wide, 4 medium, 3 close, 1 macro.
+Changed after reviewing Higgsfield's headphones commercial (see `reference/`):
+scenes are multi-cut Seedance prompts with a shared style header, driven by
+reference sheets and location plates. No start frames. Light is directional
+morning sun, neutral, not golden. Shallow focus allowed on close shots.
 
-| # | Time | Beat | Size | Plate | Start frame |
-|---|---|---|---|---|---|
-| 1 | 0:00-0:04 | Street, Marty buoyant with coffee | Wide | city (kept) | existing street scene |
-| 2 | 0:04-0:06 | Entry through the grey door | Wide | P4 | F1-entry |
-| 3 | 0:06-0:08 | Bully presses DORK on his chest | Medium two-shot | P3 | F2-slap |
-| 4 | 0:08 | The skip: grin dies | Close-up | P2 soft | F3-skip |
-| 5 | 0:08-0:12 | Deflation, sets coffee down | Medium | P2 | F4-deflate |
-| 6 | 0:12-0:14 | She notices | Medium close | P1 desks | F5-notice |
-| 7 | 0:14-0:17 | She crosses the floor with LEGEND | Wide | P1 | F6-cross |
-| 8 | 0:17-0:20 | The peel | Close two-shot | P2 soft | F7-peel |
-| 9 | 0:20-0:23 | The press | Macro | none | F8-press |
-| 10 | 0:23-0:27 | He lights up, she pats his arm | Medium two-shot | P2 | F9-return |
-| 11 | 0:27-0:30 | Packshot and VO | Graphic | none | to do |
+| Scene | Beats | Cuts | Plates |
+|---|---|---|---|
+| s1-great-morning | Parking lot approach, entrance from outside, entrance from inside | low wide between cars; profile track; behind shoulder at the door; low wide inside | X1, X2, P4-entry |
+| s2-slap-skip | Walk to printer, slap, the skip | shoulder follow; two-shot; insert on DORK; face close-up | P3, P1 |
+| s3-deflate-notice | Deflation, she notices, takes LEGEND | low medium; rack focus; her close-up; hands insert | P1 |
+| s4-peel-press | She crosses, peel, press | track behind her; low two-shot arc; macro; tilt to face | P1 |
+| s5-return | He lights up, pat, strut | medium close; over-shoulder two-shot; low wide pull-back; hero orbit | P1, P4-entry |
+| packshot | LEGEND macro and VO | to do | none |
 
-## Locked references (`locked/`)
-
-marty-scene-sheet, bully-sheet, friend-sheet, legend-crest-sheet, dork-sheet.
-Plates in `office/plates/`.
-
-## Render plan
-
-480p draft of each shot from its start frame with the sheets as references,
-light prompting first. Add control only where a draft slips on scale, lighting
-or clipping. Finalize keepers at 720p or 1080p.
+Prompts in `scenes/`, plates in `plates-morning/`, sheets in `locked/`,
+480p drafts in `drafts/`. The entry is the black-framed glass wall with a
+frosted band, the same entrance seen from the parking lot and from inside.
+`frames/` (posed start frames) is superseded; kept as look reference only.
