@@ -1,0 +1,20 @@
+# source in out beat (seconds, from drafts/)
+take2/s1-great-morning 1.1 2.6 lot wide
+take2/s1-great-morning 3.8 5.0 profile
+take2/s1-great-morning 7.6 9.2 door
+take2/s1-great-morning 10.0 11.4 entry inside
+take3/s2-slap-skip 3.1 5.4 slap
+take3/s2-slap-skip 6.4 7.5 dork insert
+take3/s2-slap-skip 8.8 11.1 skip
+take2/s3-deflate-notice 1.3 2.8 deflate
+take2/s3-deflate-notice 3.7 5.0 rack focus
+take2/s3-deflate-notice 7.4 8.8 her decision
+take2/s3-deflate-notice 10.4 11.4 legend drawer
+take2/s4-peel-press 1.6 2.9 she crosses
+take2/s4-peel-press 4.2 6.2 peel
+take2/s4-peel-press 7.5 9.2 press
+take2/s4-peel-press 10.3 11.7 first smile
+take2/s5-return 1.2 3.0 lights up
+take2/s5-return 3.5 4.8 pat
+take3/s5b-strut 3.5 5.4 strut
+take3/s5-return 9.6 11.2 final close-up
