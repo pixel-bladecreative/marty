@@ -14,7 +14,7 @@ take2/s4-peel-press 1.6 2.9 she crosses
 take2/s4-peel-press 4.2 6.2 peel
 take2/s4-peel-press 7.5 9.2 press
 take2/s4-peel-press 10.3 11.7 first smile
-take2/s5-return 1.2 3.0 lights up
+take3/s5a-lightsup 2.5 4.3 lights up
 take2/s5-return 3.5 4.8 pat
 take3/s5b-strut 3.5 5.4 strut
-take3/s5-return 9.6 11.2 final close-up
+take3/s5-return 10.0 11.6 final close-up
